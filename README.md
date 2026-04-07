@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -133,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0657-robot-return-to-origin) |
+| [2069-walking-robot-simulation-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
