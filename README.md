@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
