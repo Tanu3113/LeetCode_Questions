@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int maxDistance(int side, int[][] points, int k) {
         int n = points.length;
