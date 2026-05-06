@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1861-rotating-the-box](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
