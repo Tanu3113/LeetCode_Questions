@@ -8,18 +8,18 @@ class Solution {
             int emptySpot = n - 1;
             for (int j = n - 1; j >= 0; j--) {
                 if (boxGrid[i][j] == '#') {
-                   
+                    
                     boxGrid[i][j] = '.';
                     boxGrid[i][emptySpot] = '#';
                     emptySpot--;
                 } else if (boxGrid[i][j] == '*') {
-                   
+                 
                     emptySpot = j - 1;
                 }
             }
         }
 
-       
+    
         char[][] rotatedBox = new char[n][m];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
