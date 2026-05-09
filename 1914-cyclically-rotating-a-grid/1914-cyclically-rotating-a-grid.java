@@ -22,7 +22,6 @@ class Solution {
             for (int j = n - 1 - layer; j > layer; j--) grid[m - 1 - layer][j] = elements.get(index++ % size);
             for (int i = m - 1 - layer; i > layer; i--) grid[i][layer] = elements.get(index++ % size);
         }
-
         return grid;
     }
 }
