@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public int maximumJumps(int[] nums, int target) {
         int n = nums.length;
