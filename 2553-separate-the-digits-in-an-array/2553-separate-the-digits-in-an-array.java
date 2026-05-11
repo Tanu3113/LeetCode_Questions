@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] separateDigits(int[] nums) {
         List<Integer> resultList = new ArrayList<>();
@@ -10,10 +8,12 @@ class Solution {
                 resultList.add(s.charAt(i) - '0');
             }
         }
+      
         int[] answer = new int[resultList.size()];
         for (int i = 0; i < resultList.size(); i++) {
             answer[i] = resultList.get(i);
         }
+        
         return answer;
     }
 }
