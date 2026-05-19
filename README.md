@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3488-closest-equal-element-queries) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3488-closest-equal-element-queries) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
