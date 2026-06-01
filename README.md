@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
