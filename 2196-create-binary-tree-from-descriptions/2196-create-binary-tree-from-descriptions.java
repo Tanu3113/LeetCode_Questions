@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
 
@@ -15,13 +13,13 @@ class Solution {
             map.putIfAbsent(parent, new TreeNode(parent));
             map.putIfAbsent(child, new TreeNode(child));
 
-            TreeNode parentNode = map.get(parent);
-            TreeNode childNode = map.get(child);
+            TreeNode p = map.get(parent);
+            TreeNode c = map.get(child);
 
             if (isLeft == 1) {
-                parentNode.left = childNode;
+                p.left = c;
             } else {
-                parentNode.right = childNode;
+                p.right = c;
             }
 
             children.add(child);
@@ -29,7 +27,6 @@ class Solution {
 
         for (int[] d : descriptions) {
             int parent = d[0];
-
             if (!children.contains(parent)) {
                 return map.get(parent);
             }
