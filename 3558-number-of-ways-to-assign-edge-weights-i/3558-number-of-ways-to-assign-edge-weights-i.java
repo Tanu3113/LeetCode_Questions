@@ -4,7 +4,7 @@ class Solution {
     public int assignEdgeWeights(int[][] edges) {
         int n = edges.length + 1;
         
-    
+      
         List<Integer>[] graph = new ArrayList[n + 1];
         for (int i = 0; i <= n; i++) {
             graph[i] = new ArrayList<>();
@@ -17,10 +17,10 @@ class Solution {
             graph[v].add(u);
         }
         
-       
+      
         int maxDepth = findMaxDepth(1, 0, graph);
         
-
+        
         return (int) power(2, maxDepth - 1);
     }
 
@@ -34,7 +34,7 @@ class Solution {
         return depth;
     }
 
-
+    
     private long power(long base, int exp) {
         long result = 1;
         base = base % MOD;
