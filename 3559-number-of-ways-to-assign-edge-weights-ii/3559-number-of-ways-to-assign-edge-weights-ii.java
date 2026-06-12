@@ -29,7 +29,7 @@ class Solution {
 
         dfs(1, 1);
 
-
+     
         long[] pow = new long[n + 1];
         pow[0] = 1;
 
