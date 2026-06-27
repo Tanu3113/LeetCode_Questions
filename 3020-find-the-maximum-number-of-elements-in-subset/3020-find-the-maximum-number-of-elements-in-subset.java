@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class Solution {
     public int maximumLength(int[] nums) {
         Map<Long, Integer> countMap = new HashMap<>();
