@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String Matching
 |  |
@@ -400,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
