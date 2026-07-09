@@ -25,7 +25,7 @@ class Solution {
     public boolean[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
         DSU dsu = new DSU(n);
 
-       
+    
         for (int i = 1; i < n; i++) {
             if (nums[i] - nums[i - 1] <= maxDiff) {
                 dsu.union(i, i - 1);
