@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] cantTransform(int n, int[] nums, int maxDiff, int[][] queries) {
         return pathExistenceQueries(n, nums, maxDiff, queries);
