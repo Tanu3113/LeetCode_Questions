@@ -1,29 +1,29 @@
 class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
-        int totalOnes = 0;
-        List<Integer> zeroBlocks = new ArrayList<>();
-        
+        java.util.List<Integer> zeroGroupLengths = new java.util.ArrayList<>();
+        int originalOnes = 0;
         int n = s.length();
         int i = 0;
+
         while (i < n) {
             if (s.charAt(i) == '1') {
-                totalOnes++;
+                originalOnes++;
                 i++;
             } else {
-                int len = 0;
-                while (i < n && s.charAt(i) == '0') {
-                    len++;
-                    i++;
+                int j = i;
+                while (j < n && s.charAt(j) == '0') {
+                    j++;
                 }
-                zeroBlocks.add(len);
+                zeroGroupLengths.add(j - i);
+                i = j;
             }
         }
-        
-        int maxTradeGain = 0;
-        for (int k = 0; k < zeroBlocks.size() - 1; k++) {
-            maxTradeGain = Math.max(maxTradeGain, zeroBlocks.get(k) + zeroBlocks.get(k + 1));
+
+        int maxZeroMerge = 0;
+        for (int k = 0; k < zeroGroupLengths.size() - 1; k++) {
+            maxZeroMerge = Math.max(maxZeroMerge, zeroGroupLengths.get(k) + zeroGroupLengths.get(k + 1));
         }
-        
-        return totalOnes + maxTradeGain;
+
+        return originalOnes + maxZeroMerge;
     }
 }
