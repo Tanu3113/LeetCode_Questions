@@ -1,4 +1,6 @@
 import java.util.regex.*;
+
+
 class Solution {
     private int[] zs, ze, V;
     private int nblocks;
@@ -20,7 +22,7 @@ class Solution {
                      .map(j -> (ze[j] - zs[j] + 1) + (ze[j + 1] - zs[j + 1] + 1))
                      .toArray();
 
-        // sparse table for range-max over V
+       
         int nv = V.length;
         sparse = new ArrayList<>();
         sparse.add(V);
@@ -37,12 +39,12 @@ class Solution {
         return ans;
     }
 
-    private int rmq(int lo, int hi) {                 // inclusive max over V[lo..hi]
+    private int rmq(int lo, int hi) {                 
         int t = 31 - Integer.numberOfLeadingZeros(hi - lo + 1);
         return Math.max(sparse.get(t)[lo], sparse.get(t)[hi - (1 << t) + 1]);
     }
 
-    private int clip(int j, int l, int r) {           // valley j's gain, clipped to [l, r]
+    private int clip(int j, int l, int r) {           
         return V[j] - Math.max(0, l - zs[j]) - Math.max(0, ze[j + 1] - r);
     }
 
