@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1260-shift-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1306-jump-game-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
