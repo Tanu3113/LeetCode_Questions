@@ -1,8 +1,8 @@
 class Solution {
     public int minScore(int n, int[][] roads) {
-        List<int[]>[] graph = new ArrayList[n + 1];
+        java.util.List<int[]>[] graph = new java.util.ArrayList[n + 1];
         for (int i = 1; i <= n; i++) {
-            graph[i] = new ArrayList<>();
+            graph[i] = new java.util.ArrayList<>();
         }
 
         for (int[] road : roads) {
@@ -11,21 +11,24 @@ class Solution {
         }
 
         boolean[] visited = new boolean[n + 1];
-        int[] ans = {Integer.MAX_VALUE};
+        java.util.Queue<Integer> queue = new java.util.LinkedList<>();
+        queue.offer(1);
+        visited[1] = true;
 
-        dfs(1, graph, visited, ans);
+        int ans = Integer.MAX_VALUE;
 
-        return ans[0];
-    }
+        while (!queue.isEmpty()) {
+            int u = queue.poll();
 
-    private void dfs(int node, List<int[]>[] graph, boolean[] visited, int[] ans) {
-        visited[node] = true;
-
-        for (int[] edge : graph[node]) {
-            ans[0] = Math.min(ans[0], edge[1]);
-            if (!visited[edge[0]]) {
-                dfs(edge[0], graph, visited, ans);
+            for (int[] edge : graph[u]) {
+                ans = Math.min(ans, edge[1]);
+                if (!visited[edge[0]]) {
+                    visited[edge[0]] = true;
+                    queue.offer(edge[0]);
+                }
             }
         }
+
+        return ans;
     }
 }
