@@ -18,7 +18,7 @@ class Solution {
             return nums.length;
         }
 
-       
+
         return nums.length - 1;
     }
 }
