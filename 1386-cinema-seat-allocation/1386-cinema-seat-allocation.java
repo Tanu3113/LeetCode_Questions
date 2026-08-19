@@ -5,7 +5,7 @@ class Solution {
         for (int[] seat : reservedSeats) {
             int r = seat[0];
             int c = seat[1];
-           
+  
             if (c >= 2 && c <= 9) {
                 rowMask.put(r, rowMask.getOrDefault(r, 0) | (1 << c));
             }
