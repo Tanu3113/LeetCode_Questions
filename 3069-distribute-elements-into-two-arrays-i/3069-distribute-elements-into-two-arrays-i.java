@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public int[] resultArray(int[] nums) {
         List<Integer> arr1 = new ArrayList<>();
