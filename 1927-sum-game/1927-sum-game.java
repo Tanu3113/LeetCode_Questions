@@ -21,7 +21,6 @@ class Solution {
                 sumDiff -= (c - '0');
             }
         }
-
         return (countDiff % 2 != 0) || (2 * sumDiff + countDiff * 9 != 0);
     }
 }
