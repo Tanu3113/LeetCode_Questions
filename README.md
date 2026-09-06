@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0877-stone-game) |
