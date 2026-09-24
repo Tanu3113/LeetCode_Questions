@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
