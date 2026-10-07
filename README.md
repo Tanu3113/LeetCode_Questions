@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0856-score-of-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1980-find-unique-binary-string) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1345-jump-game-iv) |
