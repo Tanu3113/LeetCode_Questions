@@ -1,3 +1,6 @@
+
+import java.util.*;
+
 class Solution {
     public int minSwaps(int[] nums) {
         int n = nums.length;
