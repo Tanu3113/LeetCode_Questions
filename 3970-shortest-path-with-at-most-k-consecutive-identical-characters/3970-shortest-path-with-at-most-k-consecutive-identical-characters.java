@@ -10,7 +10,6 @@ class Solution {
             adj[e[0]].add(new int[]{e[1], e[2]});
         }
 
-        // dist[node][consecutive count]
         int[][] dist = new int[n][k + 1];
         for (int[] d : dist) {
             Arrays.fill(d, Integer.MAX_VALUE);
