@@ -7,7 +7,7 @@ class Solution {
         long[][] right = new long[m][n];
         long[][] down = new long[m][n];
 
-      
+        
         right[0][0] = 1;
 
         for (int i = 0; i < m; i++) {
@@ -17,7 +17,7 @@ class Solution {
                 long d = down[i][j];
 
                 if (grid[i][j] == 0) {
-                   
+                 
                     if (j + 1 < n) {
                         right[i][j + 1] =
                             (right[i][j + 1] + r + d) % MOD;
@@ -28,7 +28,7 @@ class Solution {
                             (down[i + 1][j] + r + d) % MOD;
                     }
                 } else {
-                    
+                
                     if (i + 1 < m) {
                         down[i + 1][j] =
                             (down[i + 1][j] + r) % MOD;
