@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
