@@ -27,7 +27,6 @@ class Solution {
 
             int start = q - x;
 
-            // Add logs having time <= query
             while (right < logs.length && logs[right][1] <= q) {
 
                 int server = logs[right][0];
@@ -37,7 +36,6 @@ class Solution {
                 right++;
             }
 
-            // Remove logs having time < start
             while (left < right && logs[left][1] < start) {
 
                 int server = logs[left][0];
