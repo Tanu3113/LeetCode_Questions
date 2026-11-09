@@ -1,3 +1,4 @@
+
 class Solution {
     public int countServers(int[][] grid) {
 
@@ -6,7 +7,7 @@ class Solution {
 
         int[] rowCount = new int[m];
         int[] colCount = new int[n];
-
+        
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
@@ -19,6 +20,7 @@ class Solution {
 
         int count = 0;
 
+        // Count servers that can communicate
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
 
