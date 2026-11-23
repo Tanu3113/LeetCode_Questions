@@ -1,3 +1,4 @@
+
 class ProductOfNumbers {
 
     ArrayList<Integer> prefix;
