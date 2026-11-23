@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tanu3113/LeetCode_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1510-stone-game-iv) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Tanu3113/LeetCode_Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -918,4 +922,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Tanu3113/LeetCode_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Tanu3113/LeetCode_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
